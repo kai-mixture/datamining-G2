@@ -1,3 +1,8 @@
+
+#この課題は先行研究を参考にしています
+#generate_traing_data.pyというグレースケール画像を画像に変換するプログラムを追加しました。
+
+
 # Face classification and detection.
 Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV.
 * IMDB gender classification test accuracy: 96%.
